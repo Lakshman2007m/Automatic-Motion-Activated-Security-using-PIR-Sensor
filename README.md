@@ -81,10 +81,7 @@ void loop() {
 }
 ```
 # Output:
-<img width="821" height="612" alt="image" src="https://github.com/user-attachments/assets/538258c7-12f9-47d5-a1b1-740ad1fbc501" />
-
-
-<img width="680" height="621" alt="image" src="https://github.com/user-attachments/assets/8f094db0-b3f2-4856-97eb-d91574721ea0" />
+<img width="1018" height="1600" alt="WhatsApp Image 2026-09-23 at 12 27 43" src="https://github.com/user-attachments/assets/c7ab87bf-3937-47c1-902d-2d2f458e68c3" />
 
 
 # Result:
